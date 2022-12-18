@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/velocity/Rugved_Mahesh/cardekho/New%20folder/mlruns/290350985151218343/21e8a43b9fd94b27bcf7f1f86531f1be/artifacts
+end_time: 1670348915674
+entry_point_name: ''
+experiment_id: '290350985151218343'
+lifecycle_stage: active
+run_id: 21e8a43b9fd94b27bcf7f1f86531f1be
+run_name: ridge_reg_train
+run_uuid: 21e8a43b9fd94b27bcf7f1f86531f1be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670348912822
+status: 3
+tags: []
+user_id: RUGVED

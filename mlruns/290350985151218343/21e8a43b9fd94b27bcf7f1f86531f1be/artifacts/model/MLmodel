@@ -1,0 +1,25 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.1.2
+mlflow_version: 2.0.1
+model_uuid: e4aa8c5394bd498d993047ee3c4f24ab
+run_id: 21e8a43b9fd94b27bcf7f1f86531f1be
+signature:
+  inputs: '[{"name": "Year", "type": "double"}, {"name": "Present_Price", "type":
+    "double"}, {"name": "Kms_Driven", "type": "double"}, {"name": "Fuel_Type", "type":
+    "long"}, {"name": "Seller_Type", "type": "long"}, {"name": "Transmission", "type":
+    "long"}, {"name": "Owner", "type": "long"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+utc_time_created: '2022-12-06 17:48:32.863745'

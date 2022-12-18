@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/velocity/Rugved_Mahesh/cardekho/New%20folder/mlruns/290350985151218343/5ab8968cd01348e48b9cfc73bb37880b/artifacts
+end_time: 1671207781374
+entry_point_name: ''
+experiment_id: '290350985151218343'
+lifecycle_stage: active
+run_id: 5ab8968cd01348e48b9cfc73bb37880b
+run_name: linear_reg_test
+run_uuid: 5ab8968cd01348e48b9cfc73bb37880b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671207778570
+status: 3
+tags: []
+user_id: RUGVED

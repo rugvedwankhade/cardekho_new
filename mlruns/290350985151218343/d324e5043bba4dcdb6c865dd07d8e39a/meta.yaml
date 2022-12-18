@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/velocity/Rugved_Mahesh/cardekho/New%20folder/mlruns/290350985151218343/d324e5043bba4dcdb6c865dd07d8e39a/artifacts
+end_time: 1671120272500
+entry_point_name: ''
+experiment_id: '290350985151218343'
+lifecycle_stage: active
+run_id: d324e5043bba4dcdb6c865dd07d8e39a
+run_name: lasso_reg_train
+run_uuid: d324e5043bba4dcdb6c865dd07d8e39a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671120269895
+status: 3
+tags: []
+user_id: RUGVED
